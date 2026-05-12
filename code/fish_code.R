@@ -9,7 +9,7 @@ make_ceviche <- function(n_fish = 1) {
   ingredients <- c("fish", "fresh lemon", "chilly")
 
   cat("Mixing:", paste(ingredients, collapse = ", "), "\n")
-  ceviche <- strrep("\U0001F988", n_fish)
+  ceviche <- strrep("\U0001F988", 30 * n_fish)
   print(paste0("Ceviche complete! ", ceviche))
 }
 
