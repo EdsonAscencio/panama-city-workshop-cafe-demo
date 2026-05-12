@@ -1,0 +1,4 @@
+- fresh fish
+- lemon
+- chilly
+- salt
