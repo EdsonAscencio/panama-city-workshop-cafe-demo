@@ -1,8 +1,8 @@
-# SALURBAL Cafe [Insert your restaurante name here]
+# Edson Cafe
 
 - [Workshop setup](https://drexel-climate.notion.site/Panama-City-Reproducibility-workshop-Setup-35e57008e885802f9674d2018978c30c?pvs=73)
 
-## Setup 
+## Setup
 
 - [ ] Login into your github account
 - [ ] Go to https://github.com/SALURBAL-Climate/panama-city-workshop-cafe-demo
@@ -14,12 +14,12 @@
        - [ ] Commit to repository
        - [ ] Push to repository
        - [ ] Check update README on your repo github page
-    - [ ]  Add a drink/food item 
+    - [ ]  Add a drink/food item
        - [ ] Make changes in Positron > Save
        - [ ] Commit to repository
        - [ ] Push to repository
        - [ ] Check update README on your repo github page
-    - [ ]  Add a drink/code item 
+    - [ ]  Add a drink/code item
        - [ ] Make changes in Positron > Save
        - [ ] Run script
        - [ ] Commit to repository
